@@ -25,7 +25,7 @@ definition(
 	namespace: "brbeaird",
 	author: "Jason Mok/Brian Beaird/Barry Burke",
 	description: "Integrate MyQ with Smartthings",
-	category: "SmartThings Labs",
+	category: "My Apps",
 	iconUrl:   "https://raw.githubusercontent.com/brbeaird/SmartThings_MyQ/master/icons/myq.png",
 	iconX2Url: "https://raw.githubusercontent.com/brbeaird/SmartThings_MyQ/master/icons/myq@2x.png",
 	iconX3Url: "https://raw.githubusercontent.com/brbeaird/SmartThings_MyQ/master/icons/myq@3x.png"
